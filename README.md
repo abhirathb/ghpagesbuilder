@@ -8,3 +8,5 @@
 
 ## Long version
  under construction
+
+**Logo designed using DALL-E (OpenAI)**
